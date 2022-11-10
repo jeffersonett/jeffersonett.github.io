@@ -10,7 +10,7 @@ comments: true
 
 Se un profesional honrado y trabajador  para servir primero a Dios y a nuestra sociedad que cada día necesita profesionales como nosotros los informáticos ya que en el furo estaremos más empapados por la tecnología y es ahí donde nosotros y yo como informático me integro a ayudar a las personas que necesiten de mis conocimiento; un ejemplo en las personas que se necesita más ayuda tecnológica es en las personas con necesidades especiales ya que solo la tecnología le puede hacer la vida más fácil y sacarles una sonrisa a aquellas personas sin olvidar delas personas normales en aquellas personas de la misma manera podemos ayudar con materiales y objetos enfocados para la educación lo cual permite tener una educación de calidad e innovador así permitiendo a los estudiantes desarrollen más su capacidad de aprendizaje.
 
-**Here is some bold text**
+
 
 ## Podemos ayudar a las personas de la siguiente manera
 
