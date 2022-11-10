@@ -2,7 +2,7 @@
 layout: post
 title: Mi autobiografía 
 subtitle: Conoce acerca de mis sueños
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/path.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
