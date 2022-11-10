@@ -1,38 +1,32 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Metas
+subtitle: Como profesional en Informática.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Se un profesional honrado y trabajador  para servir primero a Dios y a nuestra sociedad que cada día necesita profesionales como nosotros los informáticos ya que en el furo estaremos más empapados por la tecnología y es ahí donde nosotros y yo como informático me integro a ayudar a las personas que necesiten de mis conocimiento; un ejemplo en las personas que se necesita más ayuda tecnológica es en las personas con necesidades especiales ya que solo la tecnología le puede hacer la vida más fácil y sacarles una sonrisa a aquellas personas sin olvidar delas personas normales en aquellas personas de la misma manera podemos ayudar con materiales y objetos enfocados para la educación lo cual permite tener una educación de calidad e innovador así permitiendo a los estudiantes desarrollen más su capacidad de aprendizaje.
 
 **Here is some bold text**
 
-## Here is a secondary heading
+## Podemos ayudar a las personas de la siguiente manera
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Tenemos lo siguiente:
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](https://sites.google.com/site/recuperacionadaptacioninfaltil/_/rsrc/1472873454833/tecnologia-y-educacion/estrategias-para-la-utilizacion-de-tecnologia-en-educacion-especial/g8b6835.jpg?height=229&width=320)
 
-It can also be centered!
+![Crepe](https://www.viewsonic.com/library/wp-content/uploads/2019/04/5-Ways-EdTech-Helps-Students-with-Special-Needs-1.jpg)
 
+![Crepe](https://www.campuseducacion.com/blog/wp-content/uploads/2019/09/foto01-3.jpg)
+
+<!--    
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
 
 ~~~
 var foo = function(x) {
@@ -75,4 +69,4 @@ You can add notification, warning and error boxes like this:
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box.-->
