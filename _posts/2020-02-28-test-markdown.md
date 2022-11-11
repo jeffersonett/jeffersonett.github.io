@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metas
+title: Metas por cumplir
 subtitle: Como profesional en Informática.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
