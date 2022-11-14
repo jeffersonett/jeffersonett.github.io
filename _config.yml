@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "Sobre mi"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -55,8 +55,8 @@ social-network-links:
   github: daattali
   twitter: daattali
   patreon: DeanAttali
-  youtube:  https://www.youtube.com/channel/UC5OKUZEJclfOJtYTfKD2dhQ
-#  medium: yourname c/daattali
+  youtube: c/daattali
+#  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
