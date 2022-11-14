@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Mi sitio Web "JETT"
 
 # Your name to show in the footer
 author: Some Person
@@ -20,11 +20,11 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mi"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"#
+    #- Learn markdown: "https://www.markdowntutorial.com/"#
+  CV: "https://rz3qv3usfzrtpmxyem3hqg.on.drv.tw/6to%20semestre/desarrollo%20web/TAREA/HOJA%20DE%20VIDA.html"
 
 ################
 # --- Logo --- #
