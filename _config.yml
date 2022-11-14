@@ -21,9 +21,9 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Mi Blog:
+    - Arte y Tecnología : "https://jeffersontenesaca.blogspot.com/2020/01/el-arte-y-la-tecnologia.html"
+    
   Author's home: "https://deanattali.com"
 
 ################
